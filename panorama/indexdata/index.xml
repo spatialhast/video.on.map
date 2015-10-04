@@ -87,34 +87,34 @@
 
         <image type="SPHERE" hfov="360" vfov="64.2857142857143" voffset="0" multires="true" baseindex="0" tilesize="512" devices="desktop">
           <level tiledimagewidth="448" tiledimageheight="80">
-            <sphere url="_group_0__dsc_0352_d_9/0/%v_%u.jpg"/>
+            <sphere url="img/0/%v_%u.jpg"/>
           </level>
         </image>
 
     <image type="CUBE" devices="html5">
-      <front url="_group_0__dsc_0352_d_9/html5/0.jpg"/>
-      <right url="_group_0__dsc_0352_d_9/html5/1.jpg"/>
-      <back  url="_group_0__dsc_0352_d_9/html5/2.jpg"/>
-      <left  url="_group_0__dsc_0352_d_9/html5/3.jpg"/>
-      <up    url="_group_0__dsc_0352_d_9/html5/4.jpg"/>
-      <down  url="_group_0__dsc_0352_d_9/html5/5.jpg"/>
+      <front url="img/html5/0.jpg"/>
+      <right url="img/html5/1.jpg"/>
+      <back  url="img/html5/2.jpg"/>
+      <left  url="img/html5/3.jpg"/>
+      <up    url="img/html5/4.jpg"/>
+      <down  url="img/html5/5.jpg"/>
     </image>
 
       <image type="CUBE" devices="tablet">
-        <front url="_group_0__dsc_0352_d_9/tablet/0.jpg"/>
-        <right url="_group_0__dsc_0352_d_9/tablet/1.jpg"/>
-        <back  url="_group_0__dsc_0352_d_9/tablet/2.jpg"/>
-        <left  url="_group_0__dsc_0352_d_9/tablet/3.jpg"/>
-        <up    url="_group_0__dsc_0352_d_9/tablet/4.jpg"/>
-        <down  url="_group_0__dsc_0352_d_9/tablet/5.jpg"/>
+        <front url="img/tablet/0.jpg"/>
+        <right url="img/tablet/1.jpg"/>
+        <back  url="img/tablet/2.jpg"/>
+        <left  url="img/tablet/3.jpg"/>
+        <up    url="img/tablet/4.jpg"/>
+        <down  url="img/tablet/5.jpg"/>
       </image>
       <image type="CUBE" devices="mobile">
-        <front url="_group_0__dsc_0352_d_9/mobile/0.jpg"/>
-        <right url="_group_0__dsc_0352_d_9/mobile/1.jpg"/>
-        <back  url="_group_0__dsc_0352_d_9/mobile/2.jpg"/>
-        <left  url="_group_0__dsc_0352_d_9/mobile/3.jpg"/>
-        <up    url="_group_0__dsc_0352_d_9/mobile/4.jpg"/>
-        <down  url="_group_0__dsc_0352_d_9/mobile/5.jpg"/>
+        <front url="img/mobile/0.jpg"/>
+        <right url="img/mobile/1.jpg"/>
+        <back  url="img/mobile/2.jpg"/>
+        <left  url="img/mobile/3.jpg"/>
+        <up    url="img/mobile/4.jpg"/>
+        <down  url="img/mobile/5.jpg"/>
       </image>
 
 
