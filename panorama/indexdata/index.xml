@@ -82,7 +82,7 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="indexdata/img/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="img/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
 
         <image type="SPHERE" hfov="360" vfov="64.2857142857143" voffset="0" multires="true" baseindex="0" tilesize="512" devices="desktop">
