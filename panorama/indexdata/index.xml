@@ -55,7 +55,7 @@
 <!-- **** @PanoName="[Group 0]-DSC_0352_DSC_0366-15 images" @PanoFile="C:\Users\user\Desktop\6\[Group 0]-DSC_0352_DSC_0366-15 images.jpg" **** -->
 <scene name="pano9"
        heading="0"
-       thumburl="indexdata/_group_0__dsc_0352_d_9/thumbnail.jpg"
+       thumburl="indexdata/img/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano9_title"
@@ -82,7 +82,7 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="indexdata/_group_0__dsc_0352_d_9/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="indexdata/img/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
 
         <image type="SPHERE" hfov="360" vfov="64.2857142857143" voffset="0" multires="true" baseindex="0" tilesize="512" devices="desktop">
